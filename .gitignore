@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv/
+venv_py314_backup
+
+# Other common ignores
+*.pyc
+__pycache__/
+*.log
+.DS_Store
+.env
+.idea/
+.vscode/
+.devcontainer/
+env/
+
+
